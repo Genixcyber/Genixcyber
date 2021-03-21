@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Techno-cyber/T2-fisher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=T2-fisher"></a>
-<a href="https://github.com/Techno-cyber/Hacker-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=Hacker-X"></a>
-<a href="https://github.com/Techno-cyber/T2-Osint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=T2-Osint"></a>
+<a href="https://github.com/Technocyber/T2-fisher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocyber&repo=T2-fisher"></a>
+<a href="https://github.com/Technocyber/Hacker-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocyber&repo=Hacker-X"></a>
+<a href="https://github.com/Technocyber/T2-Osint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocyber&repo=T2-Osint"></a>
 </p>
 
 <!--
