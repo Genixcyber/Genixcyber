@@ -1,12 +1,12 @@
 ## HI THERE, IT'S ME TECHNOCYBER
 <p align="center">
 <!--  <img alt="profile pic" width="460px" src="https://avatars1.githubusercontent.com/Technocyber" /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Techno-cyber&hide=ruby,perl&hide_border=true" /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Technocyber&hide=ruby,perl&hide_border=true" /> -->
 
 <a href="https://">
-   <img alt="Punker-Bhai's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Techno-cyber&show_icons=true&include_all_commits=true&hide_border=true"/></p>
+   <img alt="Technocyber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Technocyber&show_icons=true&include_all_commits=true&hide_border=true"/></p>
 <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Techno-cyber&" alt="Techno-cyber" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocyber&" alt="Techno-cyber" />
 </p>
 
 - 👨‍💻 Believe in ANONYMOUS 👽
@@ -15,7 +15,7 @@
 - 💬 Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
 
 <p align="center">
-  <a href="https://github.com/Techno-cyber"><img title="Techno-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-cyber&layout=compact"></a>
+  <a href="https://github.com/Technocyber"><img title="Techno-cyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techno-cyber&layout=compact"></a>
 </p>
 
 <p align="center">
