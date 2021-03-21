@@ -9,10 +9,10 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocyber&" alt="Technocyber" />
 </p>
 
-- 👨‍💻 Believe in ANONYMOUS 👽
-- 📖 I’m currently learning `python` and `bash` 
-- 🕵️ Learning Hacking is not a crime but using it for bad things is .
-- 💬 Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
+-  Believe in ANONYMOUS 👽
+-  I’m currently learning `python` and `bash` 👩‍💻
+-  Learning Hacking is not a crime but using it for bad things is .
+-  Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
 
 <p align="center">
   <a href="https://github.com/Technocyber"><img title="Technocyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocyber&layout=compact"></a>
