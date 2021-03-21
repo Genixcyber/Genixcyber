@@ -10,7 +10,7 @@
 </p>
 
 -  Believe in ANONYMOUS 😈
--  I’m currently learning `python` and `bash` 👩‍💻
+-  Currently learning `python` and `bash` 👩‍💻
 -  Learning Hacking is not a crime but using it for bad things is 💀 .
 -  Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
 
