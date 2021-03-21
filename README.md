@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Techno-cyber/Blacky-Console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=Blacky-Console"></a>
-<a href="https://github.com/Techno-cyber/Rstore-console"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=Rstore-console"></a>
-<a href="https://github.com/Techno-cyber/Deb-Dos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=Deb-Dos"></a>
+<a href="https://github.com/Techno-cyber/T2-fisher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=T2-fisher"></a>
+<a href="https://github.com/Techno-cyber/Hacker-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=Hacker-X"></a>
+<a href="https://github.com/Techno-cyber/T2-Osint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Techno-cyber&repo=T2-Osint"></a>
 </p>
 
 <!--
