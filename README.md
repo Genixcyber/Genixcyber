@@ -1,4 +1,4 @@
-## HEY, IT'S ME TECHNOCYBER
+## HEY, IT'S ME GENIXCYBER
 <p align="center">
 <!--  <img alt="profile pic" width="460px" src="https://avatars1.githubusercontent.com/Technocyber" /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Technocyber&hide=ruby,perl&hide_border=true" /> -->
