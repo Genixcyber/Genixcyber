@@ -1,4 +1,4 @@
-## HEY, IT'S ME GENIXCYBER
+## HEY GEEK, IT'S ME GENIXCYBER
 <p align="center">
 <!--  <img alt="profile pic" width="460px" src="https://avatars1.githubusercontent.com/Technocyber" /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Genixcyber&hide=ruby,perl&hide_border=true" /> -->
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Technocyber/T2-fisher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocyber&repo=T2-fisher"></a>
-<a href="https://github.com/Technocyber/Hacker-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocyber&repo=Hacker-X"></a>
-<a href="https://github.com/Technocyber/T2-Osint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Technocyber&repo=T2-Osint"></a>
+<a href="https://github.com/Genixcyber/T2-fisher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=T2-fisher"></a>
+<a href="https://github.com/Genixcyber/Hacker-X"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=Hacker-X"></a>
+<a href="https://github.com/Genixcyber/T2-Osint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=T2-Osint"></a>
 </p>
 
 <!--
