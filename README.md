@@ -1,12 +1,12 @@
 ## HEY, IT'S ME GENIXCYBER
 <p align="center">
 <!--  <img alt="profile pic" width="460px" src="https://avatars1.githubusercontent.com/Technocyber" /> -->
-<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Technocyber&hide=ruby,perl&hide_border=true" /> -->
+<!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Genixcyber&hide=ruby,perl&hide_border=true" /> -->
 
 <a href="https://">
-   <img alt="Technocyber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Technocyber&show_icons=true&include_all_commits=true&hide_border=true"/></p>
+   <img alt="Technocyber's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Genixcyber&show_icons=true&include_all_commits=true&hide_border=true"/></p>
 <p>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Technocyber&" alt="Technocyber" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Genixcyber&" alt="Technocyber" />
 </p>
 
 -  Believe in ANONYMOUS 😈
