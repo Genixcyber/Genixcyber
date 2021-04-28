@@ -15,7 +15,7 @@
 -  Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
 
 <p align="center">
-  <a href="https://github.com/Technocyber"><img title="Technocyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Technocyber&layout=compact"></a>
+  <a href="https://github.com/Genixcyber"><img title="Genixcyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genixcyber&layout=compact"></a>
 </p>
 
 <p align="center">
