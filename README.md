@@ -1,4 +1,9 @@
 ## HEY GEEK, IT'S ME GENIXCYBER
+<h3 align="center"> INFORMATION SECURITY ENTHUSIAST. ETHICAL HACKER | WEB DEVELOPER</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Genixcyber&label=Profile%20views&color=0e75b6&style=flat" alt="Genixcyber" /> </p>
+
+
 <p align="center">
 <!--  <img alt="profile pic" width="460px" src="https://avatars1.githubusercontent.com/Technocyber" /> -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Genixcyber&hide=ruby,perl&hide_border=true" /> -->
