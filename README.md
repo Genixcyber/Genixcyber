@@ -1,5 +1,5 @@
 ## HEY GEEK, IT'S ME GENIXCYBER
-<h3 align="center"> INFORMATION SECURITY ENTHUSIAST. ETHICAL HACKER | WEB DEVELOPER</h3>
+<h3 align="center"> INFORMATION SECURITY ENTHUSIAST | ETHICAL HACKER | WEB DEVELOPER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Genixcyber&label=Profile%20views&color=0e75b6&style=flat" alt="Genixcyber" /> </p>
 
