@@ -17,9 +17,8 @@
 -  Learning Hacking is not a crime but using it for bad things is 💀 .
 -  Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
 
-<p align="center">
-  <a href="https://github.com/Genixcyber"><img title="Genixcyber" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genixcyber&layout=compact"></a>
-</p>
+<a href="https://github.com/Genixcyber"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genixcyber&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
 <p align="center">
 <a href="https://github.com/Genixcyber/T2-fisher"><img title="Phishing-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=T2-fisher&theme=radical"></a>
