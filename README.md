@@ -12,14 +12,13 @@
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
+<a href="https://github.com/Genixcyber"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genixcyber&layout=compact&theme=react&hide_border=true" />
+</a></p>
 
 -  Believe in ANONYMOUS 😈
 -  Currently learning `python` and `bash` 👩‍💻
 -  Learning Hacking is not a crime but using it for bad things is 💀 .
 -  Follow Me on [Instagram(Click Here)](https://instagram.com/Technocyber.sh)
-
-<a href="https://github.com/Genixcyber"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genixcyber&layout=compact&theme=react&hide_border=true" />
-</a></p>
 
 <p align="center">
 <a href="https://github.com/Genixcyber/T2-fisher"><img title="Phishing-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=T2-fisher&theme=radical"></a>
