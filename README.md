@@ -24,8 +24,8 @@
 <p align="center">
 <a href="https://github.com/Genixcyber/T2-fisher"><img title="Phishing-tool" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=T2-fisher&theme=radical"></a>
 <a href="https://github.com/Genixcyber/T2-Osint"><img title="Phoneinfoga" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=T2-Osint&theme=highcontrast"></a>
-<a href="https://github.com/Genixcyber/Hacker-X"><img title="Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=.  &theme=vision-friendly-dark"></a>
-<a href="https://github.com/Genixcyber/Tmux_cool"><img title="Cool Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=tracer-ip&theme=highcontrast"></a>
+<a href="https://github.com/Genixcyber/Hacker-X"><img title="Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=Hacker-X&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Genixcyber/Tmux_cool"><img title="Cool Termux" src="https://github-readme-stats.vercel.app/api/pin/?username=Genixcyber&repo=Tmux_cool&theme=highcontrast"></a>
 </p>
 
 <!--
